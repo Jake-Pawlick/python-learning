@@ -4,4 +4,4 @@ exercises and projects.
 ## About Me
 - Name: Jacob Pawlick
 - Course: Computer Science 1
-- School: Indiana Institute of Technology
+- School: Indiana Institute of Technology-
